@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecloudyy&label=Profile%20views&color=0e75b6&style=flat" alt="thecloudyy" /> </p>
 
-- 🔭 I’m currently working on **PG programming language**
-
 - 📫 How to reach me **vibelycoding@proton.me**
 
 <h3 align="left">Connect with me:</h3>
