@@ -50,10 +50,14 @@
 
 ---
 
-### 📈 Activity Graph
+### 📈 Activity Overview
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thecloudyy&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecloudyy&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecloudyy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
