@@ -2,7 +2,7 @@
 <h3 align="center">Creating excellence.</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=thecloudyy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="thecloudyy" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=thecloudyy.thecloudyy&left_text=Profile%20views&left_color=0e75b6&right_color=0e75b6" alt="Profile views" />
 </p>
 
 ---
