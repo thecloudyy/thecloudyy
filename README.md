@@ -62,14 +62,11 @@
 
 <p align="center">
 <a href="https://discord.com/users/1526682077313896582">
-<img src="https://discord.c99.nl/widget/theme-3/1526682077313896582.png"/>
+<img src="https://discord.c99.nl/widget/theme-1/1526682077313896582.png"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://discord.com/users/1526682077313896582">
-<img src="https://img.shields.io/badge/Discord-1526682077313896582-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 <a href="mailto:vibelycoding@proton.me">
 <img src="https://img.shields.io/badge/Email-vibelycoding%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
