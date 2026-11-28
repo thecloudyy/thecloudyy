@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Cloudy</h1>
 <h3 align="center">Creating excellence.</h3>
 
 <p align="center">
@@ -7,16 +6,7 @@
 
 ---
 
-### 🚀 About Me
-
-- 💻 I build across **C++, C#, and web technologies**
-- ⚙️ Interested in **systems programming, tooling, and automation**
-- 🎮 Exploring **game development** with Unity & Unreal Engine
-- 🐳 Comfortable in **Linux, Docker, and full-stack environments**
-
----
-
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
